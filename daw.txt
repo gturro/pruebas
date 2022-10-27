@@ -1,7 +1,2 @@
 ---- DAW 2 ----
-- Front end
-- Back end
-- Dessign
-- Deployment
-- Projects
-- Mentorship
+AHORA ESTOY TRABAJANDO EN MI PUTA RAMA.
